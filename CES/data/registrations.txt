@@ -1,2 +1,0 @@
-# CEMS Registrations — eventId|userId
-5|U1
