@@ -1,0 +1,7 @@
+# CEMS Events File — do not edit manually
+# Format: id|name|date(dd/MM/yyyy)|time(HH:mm)|location|maxParticipants|status|createdBy
+1|AI & Machine Learning Bootcamp|27/04/2026|10:00|Computer Lab B|60|UPCOMING|System
+2|Entrepreneurship Pitch Night|29/04/2026|17:00|Innovation Hub|80|UPCOMING|System
+3|Cybersecurity Awareness Day|02/05/2026|09:00|Lecture Hall C|120|UPCOMING|System
+4|Mobile App Development Workshop|04/05/2026|13:00|IT Building Room 2|40|UPCOMING|System
+5|Cultural Food Festival|07/05/2026|12:00|Campus Courtyard|200|UPCOMING|System
