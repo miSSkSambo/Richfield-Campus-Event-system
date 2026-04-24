@@ -1,2 +1,6 @@
 # CEMS Registrations — eventId|userId
-5|U1
+2|U1
+3|U2
+4|U3
+5|U4
+6|U5
