@@ -11,6 +11,10 @@ public class Main {
         System.out.println("╔══════════════════════════════════════════════════════════╗");
         System.out.println("║       RICHFIELD CAMPUS EVENT MANAGEMENT SYSTEM           ║");
         System.out.println("║                  Version 1.0.0                           ║");
+        System.out.println("║----------------------------------------------------------║");
+        System.out.println("║ Name: Katlego Sambo                                      ║");
+        System.out.println("║ Student No: 402306874                                    ║");
+        System.out.println("║ Module: Programming 731                                  ║");
         System.out.println("╚══════════════════════════════════════════════════════════╝");
         System.out.println();
 
