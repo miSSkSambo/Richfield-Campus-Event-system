@@ -1,6 +1,9 @@
 # Richfield Campus Event Management System (CEMS)
 ### PRO731 Java Programming Assignment — Version 1.0.0
 
+<img width="1577" height="933" alt="Screenshot 2026-04-24 130922" src="https://github.com/user-attachments/assets/f045965c-7bfb-45f0-a101-cceda05df0b5" />
+
+
 ---
 
 ## Table of Contents
